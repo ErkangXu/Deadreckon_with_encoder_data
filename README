@@ -1,0 +1,1 @@
+This is the code for the ROS node that can use the encoder data to estimate the location of Clearpath A100 robot.
